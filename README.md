@@ -14,7 +14,7 @@ This repository contains a Python script for an Anime Recommender System. The sy
 ## Installation
 To use this script, follow these steps:
 1. Clone this repository:<br>
-```git clone https://github.com/your-username/anime-recommender-system.git```
+```git clone https://github.com/Angeldahal/anime-recommender-system.git```
 2. Install the required dependencies using pip:<br>
 ```pip install -r requirements.txt```
 3. Run the python script:<br>
