@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">
-<img src="./anime_title.jpg" width="300" />
+<img src="./assets/anime_title.jpg" width="300" />
 <br>
 <b>Anime Recommender System</b>
 </h1>
@@ -42,7 +42,7 @@ This repository contains a Python script for an Anime Recommender System. The sy
 ---
 
 ## ⚙️ Preview
-![Image Preview](./Screenshot_preview.png)
+![Image Preview](./assets/Screenshot_preview.png)
 
 
 ---
